@@ -1,0 +1,6 @@
+﻿Field,PercentAgree_Pre,PercentAgree_Post,CohenKappa_Pre,CohenKappa_Post,NumDisagreements,NumResolved,Notes
+HasRecovered,100,100,1,1,0,0,No Disagreements for HasRecovered
+WhyRecovered,50,100,N/A,N/A,10,10,Explanations were vague and were improved
+ActivityPattern,75,100,0.62,1,5,5,Differing ways to interpret the graph.
+Currentstatus,90,100,0.62,1,2,2,Simple errors with finding commits.
+RecentThemes,45,100,N/A,N/A,11,11,Misconceptions with specific themes
